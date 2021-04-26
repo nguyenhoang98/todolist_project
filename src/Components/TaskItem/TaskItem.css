@@ -1,0 +1,25 @@
+
+
+.taskitem{
+    background: rgb(216, 215, 215) ;
+    border-radius: 6px;
+    margin-top:10px ;
+    padding:6px ;
+}
+.status{
+    padding:0px 20px ;
+    cursor: pointer;
+}
+.close{
+    color:red ;
+    cursor: pointer;
+}
+.taskitem__name{
+    width:150px ;
+    display: block;
+}
+.taskitem__input{
+    border:none ;
+    outline: none;
+    border-bottom: 1px solid #333 ;
+}

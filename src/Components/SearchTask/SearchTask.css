@@ -1,0 +1,23 @@
+
+.searchtask{
+    width:100% ;
+    height: auto;
+    margin-top:30px ;
+    position: relative;
+}
+.searchtask__input{
+    width:100% ;
+    height: auto;
+    padding:12px 35px ;
+    border-radius: 6px ;
+    border:none ;
+    outline: none;
+    font-size: 18px;;
+}
+.img-search{
+    position: absolute;
+    top:8px;
+    left:5px ;
+    width:30px ;
+    height: 30px ;
+}

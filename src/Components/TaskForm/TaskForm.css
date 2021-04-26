@@ -1,0 +1,12 @@
+
+.taskform__input{
+    width:100% ;
+    height: auto;
+    padding:10px ;
+    background : white ;
+    color:black ;
+    border:none ;
+    outline: none;
+    border-radius: 6px ;
+    margin-top:30px ;
+}

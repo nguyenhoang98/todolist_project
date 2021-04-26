@@ -1,0 +1,15 @@
+.pagination{
+    margin-top:10px ;
+}
+.btn-pagination{
+    border:none ;
+    outline: none;
+    padding:6px 10px ;
+    background : green ;
+    color:white ;
+    margin-right:2px ;
+    cursor: pointer;
+}
+.red{
+    background: red;
+}
